@@ -1,4 +1,4 @@
-#Temperature Converter Project
+# Temperature Converter Project
 
 The Temperature Converter project is developed using HTML, CSS, and JavaScript. This web application enables users to convert temperature readings between three basic temperature scales: Celsius, Fahrenheit, and Kelvin.
 
